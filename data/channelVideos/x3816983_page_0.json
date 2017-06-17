@@ -1,0 +1,132 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "3843120",
+            "title": "Blooper Just add grease!",
+            "date_created": "1433432985",
+            "loginId": "845",
+            "tags": "john deere, brake repair, blooper, tractor repair, #WrenchingWithRachel, New Parts for Old Tractors,",
+            "description": "Sometimes when you are making a tractor repair video the most simple part is the most difficult. One of the last steps in this #WrenchingWithRachel brake repair on a John Deere turns into an endless attempt with lots of laughter.",
+            "asset": {
+                "type": "mp4",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/845\/canvas\/655\/368\/408279719-0219201079.jpg",
+                "mediaDuration": "68",
+                "prettyDuration": "00:01:08",
+                "hookText": "Sometimes when you are making a tractor repair video the most simple part is the most difficult. One of the last steps in this #WrenchingWithRachel brake repair on a John Deere turns into an endless attempt with lots of laughter.",
+                "tags": "john deere, brake repair, blooper, tractor repair, #WrenchingWithRachel, New Parts for Old Tractors,",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/3843120\/36683454_f261_480c_9591_e67e520eae0f.mp4"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/3843120\/720p_36683454_f261_480c_9591_e67e520eae0f.mp4",
+                        "quality": "720p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/3843120\/480p_36683454_f261_480c_9591_e67e520eae0f.mp4",
+                        "quality": "480p"
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/3843120\/360p_36683454_f261_480c_9591_e67e520eae0f.mp4",
+                        "quality": "360p"
+                    }
+                ]
+            },
+            "parentId": "3816983",
+            "url": "\/bloopers\/just-add-grease\/3816983-3843120"
+        },
+        {
+            "id": "3821523",
+            "title": "Tractor Bloopers!!!!",
+            "date_created": "1423576470",
+            "loginId": "845",
+            "tags": "",
+            "description": "http:\/\/www.facebook.com\/AgriVideos Various picture and videos of tractor bloopers enjoy.",
+            "asset": {
+                "author": "AgriVidsProductions",
+                "hdvFlag": 1,
+                "hookText": "http:\/\/www.facebook.com\/AgriVideos Various picture and videos of tractor bloopers enjoy.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/AwfrRZWvWVg\/maxresdefault.jpg",
+                "uploadDate": 1327415630,
+                "videoId": "AwfrRZWvWVg",
+                "mediaDuration": "235",
+                "prettyDuration": "00:03:55",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "3816983",
+            "url": "\/bloopers\/tractor-bloopers\/3816983-3821523"
+        },
+        {
+            "id": "59903236",
+            "title": "Blooper April Fools Foibles",
+            "date_created": "1459352604",
+            "loginId": "845",
+            "tags": "Wrenching with Rachel, #WrenchingwithRachel, tractor repair, Steiner Tractor parts,",
+            "description": "Just a quick video with a few silly outtakes from filming our Wrenching with Rachel tractor repair video series. When filming there is no script and sometimes the words are just hard to find. And as you may know not everything goes off without a hitch and so sometimes we like to reflect on the things that happen at the end of a long day, or sometimes when the day has just begun.",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "133",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "133",
+                "prettyDuration": "00:02:13",
+                "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/845\/canvas\/655\/368\/299297934-0219201079.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/media.mpd",
+                "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "3816983",
+            "url": "\/bloopers\/april-fools-tractor-foibles\/3816983-59903236"
+        }
+    ]
+}

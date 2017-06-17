@@ -1,0 +1,24 @@
+{
+    "title": "Bloopers",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1423173013",
+    "date_modified": "1433433453",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "3816983",
+    "loginId": "845",
+    "entityType": "3",
+    "titleTextEncoded": "Bloopers",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "134819670-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "134819670-0561598955.jpg"
+    },
+    "transcripts": null
+}

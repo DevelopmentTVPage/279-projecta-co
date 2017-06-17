@@ -1,0 +1,132 @@
+{
+    "title": "Blooper April Fools Foibles",
+    "description": "Just a quick video with a few silly outtakes from filming our Wrenching with Rachel tractor repair video series. When filming there is no script and sometimes the words are just hard to find. And as you may know not everything goes off without a hitch and so sometimes we like to reflect on the things that happen at the end of a long day, or sometimes when the day has just begun.",
+    "referenceId": "cb45dfb22aefc133b89d5a05f55f33a1",
+    "date_created": "1459352604",
+    "date_modified": "1474484412",
+    "tags": "Wrenching with Rachel, #WrenchingwithRachel, tractor repair, Steiner Tractor parts,",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "tractor_brand": null,
+    "part_type": null,
+    "video_type": "bloopers",
+    "VV_VI": "6300",
+    "CVV_VI": "218",
+    "engagement_score": "33",
+    "conversion_score": "20",
+    "id": "59903236",
+    "loginId": "845",
+    "entityType": "1",
+    "sortOrder": "2",
+    "entityIdParent": "3816983",
+    "titleTextEncoded": "April-Fools-Tractor-Foibles",
+    "category": "",
+    "duration": "133",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "133",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "133",
+        "prettyDuration": "00:02:13",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/845\/canvas\/655\/368\/299297934-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/845\/59903236\/9c1c7\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "engagement_score": {
+                "lastUpdatedDate": "2017-05-28"
+            }
+        },
+        "CVV_VI": {
+            "conversion_score": {
+                "lastUpdatedDate": "2017-05-28"
+            }
+        }
+    },
+    "tvp_concept": [
+        "Debut albums",
+        "Outtake",
+        "Blooper",
+        "Debut albums"
+    ],
+    "tvp_entity_company": null,
+    "tvp_entity_facility": null,
+    "tvp_entity_geographicfeature": null,
+    "tvp_entity_healthcondition": null,
+    "tvp_entity_location": null,
+    "tvp_entity_movie": null,
+    "tvp_entity_musicgroup": null,
+    "tvp_entity_organization": null,
+    "tvp_entity_person": [
+        "Rachel"
+    ],
+    "tvp_entity_sport": null,
+    "tvp_entity_sportingevent": null,
+    "tvp_entity_televisionshow": null,
+    "tvp_entity_twitterhandle": null,
+    "tvp_entity_vehicle": null,
+    "tvp_category_1": [
+        "\/art and entertainment"
+    ],
+    "tvp_category_2": [
+        "\/art and entertainment\/movies and tv"
+    ],
+    "tvp_category_3": [
+        "\/art and entertainment\/movies and tv\/movies"
+    ],
+    "tvp_category_4": null,
+    "tvp_category_5": null,
+    "tvp_profiles": null
+}
